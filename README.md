@@ -2,7 +2,7 @@
 
 A simple and elegant **product landing page** built with HTML & CSS.  
 This project showcases a perfume product card with responsive design for both desktop and mobile views.
-
+Live Site: https://chirugraphics123-student.github.io/frontend-mentor-product-page/
 ---
 
 ## 🎯 Features
